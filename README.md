@@ -2,6 +2,8 @@
 Es un proyecto Api Rest que brinda las opciones de crud para guardar informacion de los resultados del mundial Qatar 2022.
 El servicio esta activo en Amazon Web Services, mediante postman se puede consultar desde (ubuntu@ec2-54-159-194-179.compute-1.amazonaws.com:8080/fixture/v1/encuentros), y la base de datos se encuentra en https://www.db4free.net/
   ## para hacer post respetar la siguiente estructura :
+  	comando en postman "post"
+    	ubuntu@ec2-54-159-194-179.compute-1.amazonaws.com:8080/fixture/v1/encuentros/
   	{
  		"fechayhoraencuentro":"2022-11-20",
 		"nombrelocal":"Qatar",
