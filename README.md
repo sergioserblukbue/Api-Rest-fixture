@@ -40,6 +40,6 @@ El servicio esta activo en Amazon Web Services, mediante postman se puede consul
       }
   
   ## para hacer delete se debe pasar el id a eliminar:
-    comando en postman "detete"
+    comando en postman "delete"
     ubuntu@ec2-54-159-194-179.compute-1.amazonaws.com:8080/fixture/v1/encuentros/1
     
